@@ -1,7 +1,9 @@
 ### tcfplayz
 # Welcome 
 Welcome to the tcfplayz (ckclol)'s repo!
+
 It is filled with minecraft stuff and sometimes other languages, we focus on java and typescript (not now) and we plan on writing more code.
+
 We also own a minecraft server (mc.spmc.ml ~~shameless plug~~) and it contains some of **our code**.
 
 ### members
@@ -15,7 +17,9 @@ ckclol's alt, does 0.1% of code, although the account was lost.
 ### contact the team?
 # ckclol
 Discord: tcfplayz#1328 or https://discord.gg/DjGKBtWEZe
+
 Phone: not prefered
+
 Email: chau123ka89chun10p@gmail.com (although recommend discord since my email is filled with junk)
 
 # eyelol
