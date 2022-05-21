@@ -13,6 +13,8 @@ ckclol aka tcfplayz is the owner of this repository. He codes 99.9% of the stuff
 eyelol or 3y3l0l is a builder from our minecraft server ~~not pluggin again~~ and he does basically nothing.
 # notckclol
 ckclol's alt, does 0.1% of code, although the account was lost.
+# crazymoses
+sussy man which does nothing
 
 ### contact the team?
 # ckclol
