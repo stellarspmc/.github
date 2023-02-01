@@ -13,14 +13,7 @@ They do basically nothing.
 
 ### contact the team?
 # ckclol
-Discord: check my github page or https://dc.spmc.tk
+Discord: https://dc.spmc.tk
 
-Phone: no
-
-Email: chau123ka89chun10p@gmail.com (JUST DISCORD DM ME PLEASE)
-
-# eyelol
-**nothing**. contact ckclol to find eyelol.
-
-# crazymoses
-**no**.
+# eyelol, crazymoses
+Discord: https://dc.spmc.tk
