@@ -9,6 +9,5 @@ The Project includes:
 - SpaceClient ([spaceclient](https://github.com/stellarspmc/spaceclient-revived))
 - And much more not shown in the GitHub repo.
 
-### contact
-# tcfplayz
+# Contact
 Discord: https://dc.spmc.fun
