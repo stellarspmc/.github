@@ -11,4 +11,4 @@ The Project includes:
 
 ### contact
 # tcfplayz
-Discord: https://dc.spmc.tk
+Discord: https://dc.spmc.fun
